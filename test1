@@ -1,0 +1,6 @@
+first time working of git 
+now adding few more lines into test1
+by creating git init this will create a new repository
+check for .git that is by ls -a
+then create a file in it and add some contents using vi editor
+
